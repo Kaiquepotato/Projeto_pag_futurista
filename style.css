@@ -1,3 +1,33 @@
 #page {
     background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 115px 80px;
+}
+
+#contBusan {
+    width: 1120px;
+}
+
+#contBusan img {
+    border-radius: 28px;
+    width: 100%;
+    height: 660px;
+}
+
+#destino {
+    width: 1120px;
+}
+
+#destino img {
+    border-radius: 28px;
+    width: 100%;
+    height: 350px;
+    margin: 20px;
+}
+
+
+h5 {
+    color: #E1624F;
 }
